@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
+.env/
+
+# Excel hasil
+*.xlsx
+
+# OS
+.DS_Store
+Thumbs.db
